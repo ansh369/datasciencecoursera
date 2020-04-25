@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587858619666.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3118988219",
+    "id" : "B55FEBFE",
+    "lastKnownWriteTime" : 1587858661,
+    "last_content_update" : 1587858661683,
+    "path" : "C:/Users/Kbira/datasciencecoursera/HelloWorld.md",
+    "project_path" : "HelloWorld.md",
+    "properties" : {
+        "cursorPosition" : "13,29",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
